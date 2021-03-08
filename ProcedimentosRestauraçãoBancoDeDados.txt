@@ -1,0 +1,5 @@
+Ao executar o Microsoft SQL Server, logar no banco de dados, com o botão direito do mouse na pasta Bancos de Dados >> Clicar em Restaurar Banco de Dados. 
+Em Origem >> Marcar o flag Dispositivo >> Clicar nos três pontos >> Adicionar >> Procurar local do arquivo (selecionado o arquivo Cadastros.bak) >> Clicar em OK >> Clicar em Ok novamente.
+Abaixo, em Destino >> Selecionar o Banco de Dados desejado para restauração >> Clicar em OK.
+Banco restaurado.
+Após o banco restaurado, clicar com o botão direiro do mouse em cima do banco de dados restaurado >> Tarefas >> Importar Arquivo Simples >> Clicar em próximo >> Procurar o local do arquivo a ser importado >> Selecionar o arquivo >> Clicar em Abrir >> Após selecionar o arquivo >> Clicar em próximo três vezes >> Concluir o processo e Importação de Arquivo Simples > Clicar em Fechar. 
